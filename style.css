@@ -78,8 +78,10 @@ form{
 }
 input,textarea{
     padding: 8px;
-    background-color: rgb(138, 207, 250);
-    color: white;
+    background-color: white;
+}
+button{
+    background-color: rgb(131, 205, 251);;
 }
 button:hover{
     background-color: hwb(193 5% 54%);
