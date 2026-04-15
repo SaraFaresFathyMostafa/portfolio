@@ -3,7 +3,8 @@ body{
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(187, 223, 245);
-    padding-bottom: 60px;
+    min-height: 100vh;
+    overflow: hidden;
 }
 header{
     padding: 70px;
@@ -89,16 +90,13 @@ button:hover{
 }
 footer {
     position: fixed;
-    bottom: 0;
     left: 0;
+    bottom: 0;
     width: 100%;
-    font-size: 17px;
-    padding: 10px;
+    padding-bottom: 50px;
     background-color: rgb(75, 166, 223);
     color: black;
     text-align: center;
-    z-index: 999;
-    margin: 0;
 }
 @media(max-width:600px){
     form{
