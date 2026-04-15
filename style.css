@@ -49,6 +49,7 @@ table{
     width: 70%;
     margin:70px auto;
     border-collapse: collapse;
+    margin-top: 0;
 }
 th{
     background-color: rgb(75, 166, 223);
