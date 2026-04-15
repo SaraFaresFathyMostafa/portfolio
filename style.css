@@ -92,7 +92,7 @@ footer p{
     left: 0;
     width: 100%;
     padding: 20px;
-    height: 20px;
+    height: auto;
     background-color: rgb(75, 166, 223);
     color: black;
     text-align: center;
